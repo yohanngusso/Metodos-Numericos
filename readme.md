@@ -30,3 +30,6 @@ Equações Diferenciais Ordinárias
   > |Runge>Kutta 4ª Ordem|
   > |Euler
 
+# Interface do Programa
+![tela do programa](https://github.com/yohanngusso/Metodos-Numericos/assets/79810080/80c64480-2075-42fb-949a-13b2df8d6b00)
+
