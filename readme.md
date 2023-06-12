@@ -33,3 +33,5 @@ Equações Diferenciais Ordinárias
 # Interface do Programa
 ![tela do programa](https://github.com/yohanngusso/Metodos-Numericos/assets/79810080/80c64480-2075-42fb-949a-13b2df8d6b00)
 
+# Rodando o código no Replit
+Segue o link para rodar o código: <a href="https://replit.com/@yohanngusso/Programa-de-Metodos-Numericos"> Métodos_Numéricos<a/>
