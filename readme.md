@@ -10,23 +10,23 @@ Raízes
 > Secantes
 
 Sistemas de Equações Lineares
-  > Eliminação de Gauss
-  > Decomposição LU
-  > Jacobi>Richardson
-  > Gauss>Seidel
+  > |Eliminação de Gauss|
+  > |Decomposição LU|
+  > |Jacobi>Richardson|
+  > |Gauss>Seidel|
 
 Interpolação 
-  > Lagrange
-  > Newton
+  > |Lagrange|
+  > |Newton|
 
 Integração Numérica
-  > Trapézio
-  > 1/3 de Simpson
-  > 3/8 de Simpson
-  > Regra de Simpson Mistas
+  > |Trapézio|
+  > |1/3 de Simpson|
+  > |3/8 de Simpson|
+  > |Regra de Simpson Mistas|
 
 Equações Diferenciais Ordinárias
-  > Método de Taylor
-  > Runge>Kutta 4ª Ordem
-  > Euler
+  > |Método de Taylor|
+  > |Runge>Kutta 4ª Ordem|
+  > |Euler
 
