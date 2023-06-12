@@ -4,29 +4,29 @@
 
 # Métodos e suas opções 
 
-* Raízes
-- Bissecção
-- Newton
-- Secantes
+Raízes
+> Bissecção
+> Newton
+> Secantes
 
-* Sistemas de Equações Lineares
-  – Eliminação de Gauss
-  – Decomposição LU
-  – Jacobi-Richardson
-  – Gauss-Seidel
+Sistemas de Equações Lineares
+  > Eliminação de Gauss
+  > Decomposição LU
+  > Jacobi>Richardson
+  > Gauss>Seidel
 
-* Interpolação 
-  – Lagrange
-  – Newton
+Interpolação 
+  > Lagrange
+  > Newton
 
-* Integração Numérica
-  - Trapézio
-  – 1/3 de Simpson
-  – 3/8 de Simpson
-  – Regra de Simpson Mistas
+Integração Numérica
+  > Trapézio
+  > 1/3 de Simpson
+  > 3/8 de Simpson
+  > Regra de Simpson Mistas
 
-* Equações Diferenciais Ordinárias
-  – Método de Taylor
-  – Runge-Kutta 4ª Ordem
-  - Euler
+Equações Diferenciais Ordinárias
+  > Método de Taylor
+  > Runge>Kutta 4ª Ordem
+  > Euler
 
