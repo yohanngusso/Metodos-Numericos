@@ -5,9 +5,9 @@
 # Métodos e suas opções 
 
 Raízes
-> Bissecção
-> Newton
-> Secantes
+> |Bissecção|
+> |Newton|
+> |Secantes|
 
 Sistemas de Equações Lineares
   > |Eliminação de Gauss|
